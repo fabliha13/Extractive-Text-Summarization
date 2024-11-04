@@ -4,9 +4,6 @@
 
 This project performs extractive text summarization on a dataset of political news articles. Extractive summarization involves selecting key sentences from a document to create a concise summary. The summarization process leverages TF-IDF (Term Frequency-Inverse Document Frequency) and cosine similarity techniques to rank and select sentences based on their relevance.
 
-## Repository Name
-
-**Extractive-Text-Summarization**
 
 ## Project Description
 
